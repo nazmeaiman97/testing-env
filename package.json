@@ -1,0 +1,22 @@
+{
+  "name": "testing-env",
+  "version": "1.0.0",
+  "description": "test-env",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazmeaiman97/testing-env.git"
+  },
+  "author": "nazmeaiman97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazmeaiman97/testing-env/issues"
+  },
+  "homepage": "https://github.com/nazmeaiman97/testing-env#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
